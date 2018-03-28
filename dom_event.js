@@ -1,3 +1,4 @@
+//A JavaScript allowing insert item into list and delete button to delete item
 let button = document.getElementById("enter");
 let input = document.getElementById("userinput");
 let ul = document.querySelector("ul");
